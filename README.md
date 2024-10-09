@@ -38,6 +38,13 @@ unpack the archive into your current folder.
 curl -L https://github.com/Nookure/NookTheme/releases/latest/download/panel.tar.gz | tar -xzv
 ```
 
+```bash
+curl -L https://github.com/Duck1405/Better---NookTheme/archive/refs/tags/latest.tar.gz | tar -xzv
+```
+
+
+
+
 Once all of the files are downloaded we need to set the correct permissions on the cache and storage directories to avoid
 any webserver related errors.
 
